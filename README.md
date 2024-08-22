@@ -22,3 +22,8 @@ overlap of two curves
 
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/4d0eca2e-3073-484c-b7f2-ad46fddf95d0">
 
+## references
+
+Delay Differential Equations—Wolfram Language Documentation
+
+https://reference.wolfram.com/legacy/language/v14/tutorial/NDSolveDelayDifferentialEquations.html?v=14.0
