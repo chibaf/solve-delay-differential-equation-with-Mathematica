@@ -3,7 +3,8 @@ solve delay differential equation with Mathematica
 
 Logistic equation
 
-<img width="506" alt="image" src="https://github.com/user-attachments/assets/bc0ba6e3-3445-424c-bbf3-e1bd0153dbfe">
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/a0766672-4424-4e24-9c79-c83fde450d76">
+
 
 
 Logistic equation with delay
