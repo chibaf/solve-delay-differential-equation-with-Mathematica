@@ -12,10 +12,13 @@ Logistic equation with delay
 
 graph of logistic curve
 
-https://twitter.com/chibafx/status/1826693851597471868/photo/1![image](https://github.com/user-attachments/assets/8e2bcb48-404d-42eb-9ac0-b079f82b17d0)
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/c773adc2-836b-4e6e-9421-42bc16fd9dbc">
 
 graph of delay logistic
 
-https://twitter.com/chibafx/status/1826694062520631392/photo/1![image](https://github.com/user-attachments/assets/ecdfc690-2aef-4dc6-95f2-f5171187b44a)
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/925305ae-c87a-4e83-b4c8-733742904666">
 
+overlap of two curves
+
+<img width="751" alt="image" src="https://github.com/user-attachments/assets/4d0eca2e-3073-484c-b7f2-ad46fddf95d0">
 
