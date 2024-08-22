@@ -5,11 +5,10 @@ Logistic equation
 
 <img width="496" alt="image" src="https://github.com/user-attachments/assets/a0766672-4424-4e24-9c79-c83fde450d76">
 
-
-
 Logistic equation with delay
 
-https://twitter.com/chibafx/status/1826689364686155903/photo/1![image](https://github.com/user-attachments/assets/cb391507-5892-4f25-bf06-83194d171f06)
+![image](https://github.com/user-attachments/assets/795a4f07-2820-411f-9b73-fab391a84acf)
+
 
 graph of logistic curve
 
