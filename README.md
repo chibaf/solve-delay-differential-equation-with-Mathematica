@@ -9,6 +9,8 @@ Logistic equation with delay
 
 ![image](https://github.com/user-attachments/assets/795a4f07-2820-411f-9b73-fab391a84acf)
 
+## plotting solutions.
+
 We suppose that $a=1, K=180, \tau=1$.
 
 graph of logistic curve
